@@ -4,6 +4,6 @@ galaxy_info:
   company: your company (optional)
   description: your description
   galaxy_tags:
-  - orion
+  - t5281504
   license: license (GPLv2, CC-BY, etc)
   min_ansible_version: 2.4
